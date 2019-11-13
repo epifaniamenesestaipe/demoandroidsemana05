@@ -22,12 +22,12 @@
         <Button android:id="@+id/btnEnter"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Enviar"></Button>
+            android:text="Precioname"></Button>
 
         <Button android:id="@+id/btnAboutus"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
-            android:text="Tocar"></Button>
+            android:text="Tocame"></Button>
 
     </LinearLayout>
 
