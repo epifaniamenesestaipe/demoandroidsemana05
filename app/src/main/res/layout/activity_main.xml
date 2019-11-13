@@ -19,10 +19,15 @@
             app:layout_constraintTop_toTopOf="parent" />
         <!--Matchparent: se expande en toda pantallla -->
         <!--wrap:content: utiliza lo necesario -->
-        <Button
+        <Button android:id="@+id/btnEnter"
             android:layout_width="match_parent"
             android:layout_height="wrap_content"
             android:text="Enviar"></Button>
+
+        <Button android:id="@+id/btnAboutus"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="Tocar"></Button>
 
     </LinearLayout>
 
